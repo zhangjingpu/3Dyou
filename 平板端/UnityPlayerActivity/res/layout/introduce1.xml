@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/introduceImg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/face" />
+
+        <TextView
+            android:id="@+id/introduceTitle"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"  
+            android:gravity="center"
+            android:text="如何锻炼身体"
+            android:textSize="45dp"
+        
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="15dp"
+            android:textStyle="italic" />
+        <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+        
+		<ImageView
+        	android:id="@+id/introduceImg2"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/plan1" />
+            />
+            
+        <TextView 
+            android:id="@id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:text="健身宝典之俯卧撑   "
+            android:textSize="25dp"
+            android:textColor="#f3faaf"
+           />
+        <ImageButton
+            android:id="@+id/introduceContent3"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:orientation="vertical"
+            android:src="@drawable/plan11"
+     		/>
+       
+        ></LinearLayout>
+        <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+        
+		<ImageView
+        	android:id="@+id/introduceImg8"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/plan5" />
+            />
+            
+        <TextView 
+            android:id="@id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:text="健身宝典之平板支持   "
+            android:textSize="25dp"
+            android:textColor="#00faaf"
+           />
+        <ImageButton
+            android:id="@+id/introduceContent4"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:orientation="vertical"
+            android:src="@drawable/plan11"
+     		/>
+       
+        ></LinearLayout>
+        <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+        
+		<ImageView
+        	android:id="@+id/introducePlan1"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/plan4" />
+            />
+            
+        <TextView 
+            android:id="@id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:text="健身宝典之跳绳"
+            android:textSize="25dp"
+            android:textColor="#000bc0"
+           />
+        ></LinearLayout>
+         <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+        
+		<ImageView
+        	android:id="@+id/introducePlan5"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/plan3" />
+            />
+            
+        <TextView 
+            android:id="@id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:text="健身宝典之单车"
+            android:textSize="25dp"
+            android:textColor="#0ff60f"
+           />
+        ></LinearLayout>
+        
+      
+        
+     <LinearLayout 
+                android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+        
+		<ImageView
+        	android:id="@+id/introducePlan2"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/plan2" />
+            />
+            
+        <TextView 
+            android:id="@id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:text="健身宝典之引体向上"
+            android:textSize="25dp"
+            android:textColor="#f0f09f"
+           />
+        
+        <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+        
+		<ImageView
+        	android:id="@+id/introduceImg3"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/plan3" />
+            />
+            
+        <TextView 
+            android:id="@id/introduceContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:text="健身宝典之单车   "
+            android:textSize="25dp"
+            android:textColor="#00f00f"
+           />
+      
+       
+        ></LinearLayout>
+       
+        ></LinearLayout>
+    
+        
+    
+    </LinearLayout>
+
+</ScrollView>
