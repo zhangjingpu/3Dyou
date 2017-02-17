@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/127/trunk/paoding-analysis/src/net/paoding/analysis/dictionary
+END
+DictionaryDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/122/trunk/paoding-analysis/src/net/paoding/analysis/dictionary/DictionaryDelegate.java
+END
+Hit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/122/trunk/paoding-analysis/src/net/paoding/analysis/dictionary/Hit.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/122/trunk/paoding-analysis/src/net/paoding/analysis/dictionary/Dictionary.java
+END
+BinaryDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/122/trunk/paoding-analysis/src/net/paoding/analysis/dictionary/BinaryDictionary.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/122/trunk/paoding-analysis/src/net/paoding/analysis/dictionary/Word.java
+END
+HashBinaryDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/122/trunk/paoding-analysis/src/net/paoding/analysis/dictionary/HashBinaryDictionary.java
+END

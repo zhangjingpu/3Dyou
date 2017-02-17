@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/128/trunk/paoding-analysis/src/net/paoding/analysis/analyzer
+END
+PaodingAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/127/trunk/paoding-analysis/src/net/paoding/analysis/analyzer/PaodingAnalyzer.java
+END
+TokenCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/59/trunk/paoding-analysis/src/net/paoding/analysis/analyzer/TokenCollector.java
+END
+PaodingTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/114/trunk/paoding-analysis/src/net/paoding/analysis/analyzer/PaodingTokenizer.java
+END
+PaodingAnalyzerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/127/trunk/paoding-analysis/src/net/paoding/analysis/analyzer/PaodingAnalyzerBean.java
+END
