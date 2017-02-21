@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AnimationCro.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AnimationCro.cs" Line="21" Column="24" />
+      <File FileName="Assets\Scripts\SocketHelper.cs" Line="11" Column="4" />
+      <File FileName="Assets\Scripts\AndroidAPP.cs" Line="56" Column="24" />
+      <File FileName="Assets\Scripts\Send.cs" Line="82" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
